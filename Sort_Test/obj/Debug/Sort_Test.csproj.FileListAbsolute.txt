@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2015\Projects\Sort_Test\Sort_Test\bin\Debug\Sort_Test.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Sort_Test\Sort_Test\bin\Debug\Sort_Test.exe
+c:\users\user\documents\visual studio 2015\Projects\Sort_Test\Sort_Test\bin\Debug\Sort_Test.pdb
+c:\users\user\documents\visual studio 2015\Projects\Sort_Test\Sort_Test\obj\Debug\Sort_Test.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Sort_Test\Sort_Test\obj\Debug\Sort_Test.frmSort_Test.resources
+c:\users\user\documents\visual studio 2015\Projects\Sort_Test\Sort_Test\obj\Debug\Sort_Test.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Sort_Test\Sort_Test\obj\Debug\Sort_Test.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Sort_Test\Sort_Test\obj\Debug\Sort_Test.exe
+c:\users\user\documents\visual studio 2015\Projects\Sort_Test\Sort_Test\obj\Debug\Sort_Test.pdb
+C:\Users\Li Bozhao\source\repos\Sort_Test\Sort_Test\bin\Debug\Sort_Test.exe.config
+C:\Users\Li Bozhao\source\repos\Sort_Test\Sort_Test\bin\Debug\Sort_Test.exe
+C:\Users\Li Bozhao\source\repos\Sort_Test\Sort_Test\bin\Debug\Sort_Test.pdb
+C:\Users\Li Bozhao\source\repos\Sort_Test\Sort_Test\obj\Debug\Sort_Test.csprojAssemblyReference.cache
+C:\Users\Li Bozhao\source\repos\Sort_Test\Sort_Test\obj\Debug\Sort_Test.frmSort_Test.resources
+C:\Users\Li Bozhao\source\repos\Sort_Test\Sort_Test\obj\Debug\Sort_Test.Properties.Resources.resources
+C:\Users\Li Bozhao\source\repos\Sort_Test\Sort_Test\obj\Debug\Sort_Test.csproj.GenerateResource.cache
+C:\Users\Li Bozhao\source\repos\Sort_Test\Sort_Test\obj\Debug\Sort_Test.exe
+C:\Users\Li Bozhao\source\repos\Sort_Test\Sort_Test\obj\Debug\Sort_Test.pdb
