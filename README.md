@@ -1,4 +1,4 @@
-#Sort_Test
+# Sort_Test
 
 This project helps you visualize sorting algorithms and compare them!
 - Compare timings！
@@ -10,6 +10,6 @@ This project helps you visualize sorting algorithms and compare them!
 ***since it will cause hangs or overflow exceptions.***
 ***Only use [Track] function to visualize the sorting if your data size is small.***
 
- ##UI
+ ## UI
 
 ![UI](images/SortTest.png)
